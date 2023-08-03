@@ -1,1 +1,1 @@
-# be-healthy-app-prototype
+# Simple-Calculator
